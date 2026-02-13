@@ -5,7 +5,7 @@ from codecs import open
 requires = [
     'requests <3.0, >=2.18.0',
     'urllib3 >=1.26, <3',
-    'netifaces>=0.10.5',
+    'netifaces2>=0.0.22',
 ]
 
 packages = [
